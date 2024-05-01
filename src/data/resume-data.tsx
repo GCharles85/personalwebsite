@@ -90,7 +90,7 @@ export const RESUME_DATA = {
       title: "Talent House Grant Finalist",
       //logo: NSNLogo,
       description: "Selected as 1 of 12 finalists to receive a grant from Talent Protocol.",
-    },
+    }
   ]/*,
   `  projects: [
     {
